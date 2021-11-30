@@ -11,10 +11,10 @@
 #define BeginPack  0x23
 #define L_ip       12
 //typedef __packed union {
-#define Preambula   5
-
+#define Preambula   5000
+efine Preambula   5000
 //команды обмена Прима-БЦВК
-#define c_Confirm                 0       //Подтверждение команды
+#define c_Confirm                 0   !!!!!!    //Подтверждение команды
 #define c_Data                    1       //Данные (одиночное сообщение)
 #define c_Long_data               2       //Данные (составное сообщение, только "Перевал")
 #define c_Result_transfer_data    3       //Результат передачи данных
