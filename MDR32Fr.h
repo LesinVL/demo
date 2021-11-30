@@ -1,4 +1,4 @@
-/**
+/**CCCCCCCCCCCCCCCCCCCC
   ******************************************************************************
   * @file	 MDR32F9Qx_arinc429R.h
   * @author	 sidorov.a
