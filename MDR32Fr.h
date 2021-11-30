@@ -1,4 +1,4 @@
-/**bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb222222222222222222222222VVVVVVVVVV
+/**bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb222222222222222222222222VVVVVVVVVV4455666777
   ******************************************************************************
   * @file	 MDR32F9Qx_arinc429R.h
   * @author	 sidorov.a
