@@ -1,4 +1,4 @@
-/**
+/** LLLLLLLLLLLLLLLLLL00000000000000000
   ******************************************************************************
   * @file	 MDR32F9Qx_arinc429R.h
   * @author	 sidorov.a
@@ -10,6 +10,9 @@
   ******************************************************************************
   * <br><br>
   *
+  * 
+  * 
+  * 
   * THE PRESENT FIRMWARE WHICH IS FOR GUIDANCE ONLY AIMS AT PROVIDING CUSTOMERS
   * WITH CODING INFORMATION REGARDING THEIR PRODUCTS IN ORDER FOR THEM TO SAVE
   * TIME. AS A RESULT, MILANDR SHALL NOT BE HELD LIABLE FOR ANY DIRECT, INDIRECT
