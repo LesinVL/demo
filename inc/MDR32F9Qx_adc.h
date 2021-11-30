@@ -37,7 +37,7 @@
   * @{
   */
 
-/** @defgroup ADC_Exported_Types ADC Exported Types
+/** @defgroup ADC_Exported_Types ADC Exported Types !!!!!!!
   * @{
   */
 
